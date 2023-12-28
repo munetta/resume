@@ -29,7 +29,11 @@ Server session limits
 AI
 -read two chapters of "Hands On Machine Learning with Scikit Learn and TensorFlow" and deduced the unnecessary-ness of selecting specific algorithms when solving particular Linear regression problems 
 
--understand the unique point (per feature) on a graph is all that is needed to build a linear regression model from scratch (examples in code)
+-understand the unique point (per feature) on a graph is all that is needed to build a linear regression model from scratch (examples in code) 
+
+-understand that closely related lines using regression min distance formulas is one way to determine an incoming target
+
+-understand that line matching is another nice way to determine similarity (interested in, example in file)
 
 -created a LLM using the unique path of a sentence fit into an object
 
