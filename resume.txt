@@ -28,7 +28,7 @@ Server session limits
 -a single master database to connect with each servers assigned database
 
 AI 
--as my perspective suggests
+As my perspective suggests
 
 -understand the unique point (per feature) on a graph is all that is needed to begin building a linear regression model from scratch (examples in code)
 
