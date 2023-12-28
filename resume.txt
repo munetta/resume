@@ -37,10 +37,15 @@ AI
 -understand large data feeding strategies using sound, and text and question answer input requests
 
 -created a picture model to most accurately label pictures 
- parameters: pixel_density, pixel_location denoted by increase in x, as pixels 
+ parameters: pixel_density on a black to white scale, pixel_location denoted by increase in x, as pixels 
 
 -created a question model to most accurately answer questions
  parameters: letter, letter_location
+
+-created a video model to accurately label a set of frames 
+parameters: pixel density on a black to white scale, pixel_location denoted by increase in x, as pixels 
+-purpose is to define each frame as a line, and connect many frames (lines) - and run a total regression 
+min formula, and apply that to incoming targets. However other statistical methods as well applied to accurately label uniqueness.
 
 -created two models to compare where a flock of birds moved per sound input
  parameters: overall_bird_location
