@@ -33,7 +33,7 @@ AI
 
 -created a LLM using the unique path of a sentence fit into an object
 
--understand large data feeding strategies using sound, and text and question answer input requests
+-understand large data feeding strategies using sound, and text and question answer input requests using many people
 
 -created a picture model to most accurately label pictures 
  parameters: pixel_color, pixel_density, pixel_location
