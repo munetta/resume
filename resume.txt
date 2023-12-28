@@ -1,5 +1,6 @@
 Alexander Eatman 
 Wilmington University 
+(pursuing bachelors) took a hiatus to distress from how overwhelming life was. Continuing to pursue jobs that fit my resume.
 alexjohnathan89@gmail.com
 508-375-8000
 
@@ -27,20 +28,16 @@ Server session limits
 -a single master database to connect with each servers assigned database
 
 AI
--read two chapters of "Hands On Machine Learning with Scikit Learn and TensorFlow" and deduced the unnecessary-ness of selecting specific algorithms when solving particular Linear regression problems 
+-understand the unique point (per feature) on a graph is all that is needed to begin building a linear regression model from scratch (examples in code)
 
--understand the unique point (per feature) on a graph is all that is needed to build a linear regression model from scratch (examples in code) 
-
--understand that closely related lines using regression min distance formulas is one way to determine an incoming target
-
--understand that line matching is another nice way to determine similarity (interested in, example in file)
+-understand that comparison methods can be used on lines to label targets/categories, and make data driven decisions ie. Regression min formulas, pattern matching formulas, line statistic formulas over line periods. 
 
 -created a LLM using the unique path of a sentence fit into an object
 
--understand large data feeding strategies using sound, and text and question answer input requests using many people
+-understand large data feeding strategies using sound, and text and question answer input requests
 
 -created a picture model to most accurately label pictures 
- parameters: pixel_color, pixel_density, pixel_location
+ parameters: pixel_density, pixel_location denoted by increase in x, as pixels 
 
 -created a question model to most accurately answer questions
  parameters: letter, letter_location
