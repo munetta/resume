@@ -49,8 +49,8 @@ parameters: pixel density on a black to white scale, pixel_location denoted by i
 -purpose is to define each frame as a line, and connect many frames (lines) - and run a total regression 
 min formula, and apply that to incoming targets. However other statistical methods as well applied to accurately label uniqueness of target.
 
--capable of integrating video game models off of players input
-understand that the appended to line of each particular frame, can be drawn together, to compare to previous large lines, to make compounded decisions
+-capable of integrating video game models using player frame input denoted with a unique line
+understand that the appended to line of each particular frame, can be drawn together, to make in game winning and losing decisions
 
 -created two models to compare where a flock of birds moved per sound input
  parameters: overall_bird_location
