@@ -1,0 +1,61 @@
+Alexander Eatman 
+Wilmington University 
+alexjohnathan89@gmail.com
+508-375-8000
+
+Skills
+programming, speaking, sincerity, impartiality, role adherence, role setting, unification, honesty
+
+Projects 
+3-dimensional game engine JavaScript 
+-Have created and continue to algorithms that can encapsulate users into a 3 dimensional space 
+
+e-commerce platform
+-Have created a variety of ecommerce platforms not used publicly but code made available
+
+vocal command llm
+-created the outline for a vocal command llm using sentences and agreed upon command arguments per sentence input
+input: what are the operating system statistics
+output: list of command line arguments (agreed upon in business executive process)
+
+chatBot
+-Have created many chatbot systems with persistent memory
+-integration of saved users, rooms, users per room, with ux functions to add and remove users, rooms etc
+
+Server session limits
+-have not implemented but am curious about implementing a software system purely based on sessions per server
+-a single master database to connect with each servers assigned database
+
+AI
+-read two chapters of "Hands On Machine Learning with Scikit Learn and TensorFlow" and deduced the unnecessary-ness of selecting specific algorithms when solving particular Linear regression problems 
+
+-understand the unique point (per feature) on a graph is all that is needed to build a linear regression model from scratch (examples in code)
+
+-created a LLM using the unique path of a sentence fit into an object
+
+-understand large data feeding strategies using sound, and text and question answer input requests
+
+-created a picture model to most accurately label pictures 
+ parameters: pixel_color, pixel_density, pixel_location
+
+-created a question model to most accurately answer questions
+ parameters: letter, letter_location
+
+-created two models to compare where a flock of birds moved per sound input
+ parameters: overall_bird_location
+ parameters:overall_bird_sound
+
+Personal Interests
+-Ethics, speaking, management, design, decision making, formatting decisions, making ethical decisions to help safe guard historical groups facing uncertainty, teaching
+
+Technological Interests
+-Docker, cloud technologies, AI, 2D and 3D game making, bash
+
+Hobbies 
+-avid basketball player
+-video games
+-enjoy being outside
+ 
+Life Goals
+-be a part of a great community
+-grow and be happy
