@@ -45,7 +45,7 @@ AI
 -created a video model to accurately label a set of frames 
 parameters: pixel density on a black to white scale, pixel_location denoted by increase in x, as pixels 
 -purpose is to define each frame as a line, and connect many frames (lines) - and run a total regression 
-min formula, and apply that to incoming targets. However other statistical methods as well applied to accurately label uniqueness.
+min formula, and apply that to incoming targets. However other statistical methods as well applied to accurately label uniqueness of target.
 
 -created two models to compare where a flock of birds moved per sound input
  parameters: overall_bird_location
