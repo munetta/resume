@@ -28,9 +28,14 @@ Server session limits
 -a single master database to connect with each servers assigned database
 
 AI
+
+-understand not to brake the limitations 
+
 -understand the unique point (per feature) on a graph is all that is needed to begin building a linear regression model from scratch (examples in code)
 
 -understand that comparison methods can be used on lines to label targets/categories, and make data driven decisions ie. Regression min formulas, pattern matching formulas, line statistic formulas over line periods. 
+
+-interested in 
 
 -created a LLM using the unique path of a sentence fit into an object
 
@@ -47,9 +52,12 @@ parameters: pixel density on a black to white scale, pixel_location denoted by i
 -purpose is to define each frame as a line, and connect many frames (lines) - and run a total regression 
 min formula, and apply that to incoming targets. However other statistical methods as well applied to accurately label uniqueness of target.
 
+-capable of integrating video game models off of players input
+understand that the appended to line of each particular frame, can be drawn together, to compare to previous large lines, to make compounded decisions
+
 -created two models to compare where a flock of birds moved per sound input
  parameters: overall_bird_location
- parameters:overall_bird_sound
+ parameters: overall_bird_sound
 
 Personal Interests
 -Ethics, speaking, management, design, decision making, formatting decisions, making ethical decisions to help safe guard historical groups facing uncertainty, teaching
