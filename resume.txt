@@ -27,15 +27,12 @@ Server session limits
 -have not implemented but am curious about implementing a software system purely based on sessions per server
 -a single master database to connect with each servers assigned database
 
-AI
-
--understand not to brake the limitations 
+AI 
+-as my perspective suggests
 
 -understand the unique point (per feature) on a graph is all that is needed to begin building a linear regression model from scratch (examples in code)
 
 -understand that comparison methods can be used on lines to label targets/categories, and make data driven decisions ie. Regression min formulas, pattern matching formulas, line statistic formulas over line periods. 
-
--interested in 
 
 -created a LLM using the unique path of a sentence fit into an object
 
