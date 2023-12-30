@@ -39,30 +39,16 @@ AI
 -understand large data feeding strategies using sound, and text and question answer input requests
 
 -created a picture model to most accurately label pictures 
- parameters: pixel_density on a black to white scale, pixel_location denoted by increase in x, as pixels 
 
 -created a question model to most accurately answer questions
- parameters: letter, letter_location
 
 -created a video model to accurately label a set of frames 
-parameters: pixel density on a black to white scale, pixel_location denoted by increase in x, as pixels 
--purpose is to define each frame as a line, and connect many frames (lines) - and run a total regression 
-min formula, and apply that to incoming targets. However other statistical methods as well applied to accurately label uniqueness of target.
 
 -capable of integrating video game models using player frame input denoted with a unique line
-understand that the appended to line of each particular frame, can be drawn together, to make in game winning and losing decisions
 
 -created two models to compare where a flock of birds moved per sound input
  model 1 parameters: overall_bird_location
  model 2 parameters: overall_bird_sound
- 
-created a statistical anayslisis model representing the statistical decisions of a human overtime by 
-1. creating categories that resembled human emotion 
-2. tracking the time within those categoires, per session
-3. at each decision, taking the percent of each category by adding all of them, and dividing each against the total to get eaches overall value percent. 
-4. stored the four percentages along a set of axis points, iterated forward, then did the same for the next incoming set
-5. after an amount of sets was able to statistically determine on a periodic basis their internal decisions
-Fault tolerance in the categories selected and their meaning
 
 Personal Interests
 -Ethics, speaking, management, design, decision making, formatting decisions, making ethical decisions to help safe guard historical groups facing uncertainty, teaching
