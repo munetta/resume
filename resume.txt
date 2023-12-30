@@ -29,26 +29,15 @@ Server session limits
 
 AI 
 -as my perspective suggests
-
 -understand the unique point (per feature) on a graph is all that is needed to begin building a linear regression model from scratch (examples in code)
-
 -understand that comparison methods can be used on lines to label targets/categories, and make data driven decisions ie. Regression min formulas, pattern matching formulas, line statistic formulas over line periods. 
-
 -created a LLM using the unique path of a sentence fit into an object
-
 -understand large data feeding strategies using sound, and text and question answer input requests
-
 -created a picture model to most accurately label pictures 
-
 -created a question model to most accurately answer questions
-
 -created a video model to accurately label a set of frames 
-
 -capable of integrating video game models using player frame input denoted with a unique line
-
 -created two models to compare where a flock of birds moved per sound input
- model 1 parameters: overall_bird_location
- model 2 parameters: overall_bird_sound
 
 Personal Interests
 -Ethics, speaking, management, design, decision making, formatting decisions, making ethical decisions to help safe guard historical groups facing uncertainty, teaching
